@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2788667826
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: combined_bundle
+      Dependencies: {}
