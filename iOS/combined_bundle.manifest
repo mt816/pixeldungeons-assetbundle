@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 991752563
+CRC: 2073635024
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0a7ba1fc2a5673d3e77c36b935e6ff32
+    Hash: d2f6353c7d2aead7175994865e58a872
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0a7ba1fc2a5673d3e77c36b935e6ff32
+    Hash: d2f6353c7d2aead7175994865e58a872
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -223,6 +223,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/AquaNemesis.png
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/DivineGuard.prefab
+- Assets/AssetBundleResources/Sprites/Skills/PoisonThunder.png
 - Assets/AssetBundleResources/Sprites/Monsters/Draphin.png
 - Assets/AssetBundleResources/Prefabs/Skills/Fangslash.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/DevilGuillotine.prefab
@@ -393,6 +394,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/DivineGaleDagger.png
 - Assets/AssetBundleResources/Sprites/Monsters/FrogSaber.png
 - Assets/AssetBundleResources/Sprites/Titles/NormalMode.png
+- Assets/AssetBundleResources/Sprites/Skills/TreeLife.png
 - Assets/AssetBundleResources/Sprites/RunesBK/BeastRune.png
 - Assets/AssetBundleResources/Sprites/Items/SilverChest.png
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
@@ -480,6 +482,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/RunesBK/ManRuneEX.png
 - Assets/AssetBundleResources/Sprites/Monsters/FireElemental.png
 - Assets/AssetBundleResources/Animators/Monsters/BigSlime.overrideController
+- Assets/AssetBundleResources/Sprites/Skills/CycloneSpiral.png
 - Assets/AssetBundleResources/Animators/Monsters/LionKnight.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/ShadowShaman.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/CrimsonMask.overrideController
