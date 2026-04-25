@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 605662112
+CRC: 1960091156
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 00e4fff5058822e59486e68b8e637d52
+    Hash: f5f20aac67e7c91fc29ae137ce58535d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 00e4fff5058822e59486e68b8e637d52
+    Hash: f5f20aac67e7c91fc29ae137ce58535d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -266,6 +266,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/ElderWood_Idle.anim
 - Assets/AssetBundleResources/Animators/Canvas/ElderWood.controller
 - Assets/Resources/Prefabs/Effects/SlowEffectPrefab.prefab
+- Assets/AssetBundleResources/Sprites/Items/Hatena.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowFang.png
 - Assets/AssetBundleResources/Sprites/Runes/WoundRuneUR.png
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
