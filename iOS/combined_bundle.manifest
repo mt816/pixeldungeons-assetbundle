@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3369303190
+CRC: 1074526872
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c826e3136ac39ca8b4a5c562339f73ec
+    Hash: 1042787ff17a1a6c94c42f271490e0c4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c826e3136ac39ca8b4a5c562339f73ec
+    Hash: 1042787ff17a1a6c94c42f271490e0c4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -407,7 +407,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Skills/TreeLife.png
 - Assets/AssetBundleResources/Sprites/RunesBK/BeastRune.png
 - Assets/AssetBundleResources/Sprites/Items/SilverChest.png
-- Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
+- Assets/AssetBundleResources/Sprites/Items/GlyphDungeonKey.png
 - Assets/AssetBundleResources/Animators/Monsters/Westerpass.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/PrecisionEyes.prefab
 - Assets/AssetBundleResources/Sprites/Runes/HasteRuneR.png
@@ -427,7 +427,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/NecroSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/Florage.png
 - Assets/AssetBundleResources/Animators/Canvas/CrimsonMask.controller
-- Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
+- Assets/AssetBundleResources/Sprites/Items/OreDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowBane.png
 - Assets/AssetBundleResources/Sprites/Monsters/SparkBot.png
 - Assets/AssetBundleResources/Sprites/Equips/DivineHealNecklace.png
