@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 411463451
+CRC: 2688084918
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a5c52ddb18c86a516d9741a5f771f39c
+    Hash: 41e999f042be67694f81cf6bf71d6a23
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a5c52ddb18c86a516d9741a5f771f39c
+    Hash: 41e999f042be67694f81cf6bf71d6a23
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -339,7 +339,6 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/IceWidow_Idle.anim
 - Assets/AssetBundleResources/Sprites/Items/OreMithril.png
 - Assets/AssetBundleResources/Sprites/Monsters/LeafImp.png
-- Assets/AssetBundleResources/Sprites/Enhance/BoxMonsterSlot.png
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElement.png
 - Assets/AssetBundleResources/Sprites/Runes/HasteRuneEX.png
 - Assets/AssetBundleResources/Animators/Monsters/DreadPuppet.overrideController
@@ -490,7 +489,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/BeamLaser.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/Earthquake.prefab
 - Assets/AssetBundleResources/Sprites/Effects/Slow.png
-- Assets/AssetBundleResources/Sprites/Enhance/BoxEquipSlot.png
+- Assets/AssetBundleResources/Sprites/Enhance/BoxItemSlot.png
 - Assets/AssetBundleResources/Prefabs/Skills/GrassKnot.prefab
 - Assets/AssetBundleResources/Sprites/Runes/HasteRuneSR.png
 - Assets/AssetBundleResources/Animators/Monsters/SnowBird.overrideController
