@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1074526872
+CRC: 1068632201
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1042787ff17a1a6c94c42f271490e0c4
+    Hash: 8668ad0f6bad4c5deb5cef302743b563
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1042787ff17a1a6c94c42f271490e0c4
+    Hash: 8668ad0f6bad4c5deb5cef302743b563
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -220,9 +220,10 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Ray.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Fire.controller
 - Assets/AssetBundleResources/Animators/Monsters/WoodElement.overrideController
-- Assets/AssetBundleResources/Sprites/Runes/QuickRuneR.png
+- Assets/AssetBundleResources/Sprites/Enhance/CostPower.png
 - Assets/AssetBundleResources/Prefabs/Skills/AquaOrb.prefab
 - Assets/AssetBundleResources/Animators/Monsters/BlackWolf.overrideController
+- Assets/AssetBundleResources/Sprites/Runes/QuickRuneR.png
 - Assets/AssetBundleResources/Sprites/Monsters/AquaNemesis.png
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/DivineGuard.prefab
@@ -340,8 +341,9 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/DreadPuppet.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Eaglord.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/DevilContract.prefab
-- Assets/AssetBundleResources/Sprites/Equips/SwiftstormRing.png
+- Assets/AssetBundleResources/Sprites/Enhance/CostMax.png
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow_Idle.anim
+- Assets/AssetBundleResources/Sprites/Equips/SwiftstormRing.png
 - Assets/AssetBundleResources/Animators/Monsters/Snowbread.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/ShadowGate.prefab
 - Assets/AssetBundleResources/Animators/Monsters/WingBear.overrideController
@@ -465,6 +467,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WoodElemental.overrideController
 - Assets/AssetBundleResources/Sprites/RunesBK/WoodRune.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonStrike.prefab
+- Assets/AssetBundleResources/Sprites/Enhance/CostSpeed.png
 - Assets/AssetBundleResources/Sprites/Items/LoyalChest.png
 - Assets/AssetBundleResources/Animators/Monsters/FoxArrow.overrideController
 - Assets/AssetBundleResources/Sprites/Items/WoodChest.png
