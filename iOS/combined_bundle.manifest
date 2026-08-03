@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2688084918
+CRC: 1464021811
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 41e999f042be67694f81cf6bf71d6a23
+    Hash: 61e32032a0d133da410e11d20e7caf27
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 41e999f042be67694f81cf6bf71d6a23
+    Hash: 61e32032a0d133da410e11d20e7caf27
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -462,11 +462,12 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
 - Assets/AssetBundleResources/Sprites/Runes/RuneCore.png
 - Assets/AssetBundleResources/Sprites/Equips/VenomDagger.png
-- Assets/AssetBundleResources/Sprites/Runes/WoundRuneSR.png
+- Assets/AssetBundleResources/Sprites/Relics/Test.png
 - Assets/AssetBundleResources/Animators/Monsters/Harpy.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Thread.controller
 - Assets/AssetBundleResources/Sprites/Effects/DEFDown.png
 - Assets/AssetBundleResources/Sprites/Equips/GaleBoots.png
+- Assets/AssetBundleResources/Sprites/Runes/WoundRuneSR.png
 - Assets/AssetBundleResources/Animators/Monsters/WoodElemental.overrideController
 - Assets/AssetBundleResources/Sprites/RunesBK/WoodRune.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonStrike.prefab
