@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1732096681
+CRC: 350478572
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 032f0ab38cf6fd7c673d5f09a1cb06af
+    Hash: 97aa9efecdca95c75adb10c9beb95c14
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 032f0ab38cf6fd7c673d5f09a1cb06af
+    Hash: 97aa9efecdca95c75adb10c9beb95c14
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -142,7 +142,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/GoldDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Enhance/LeaderHP.png
 - Assets/AssetBundleResources/Sprites/Equips/TreantRing.png
-- Assets/AssetBundleResources/Sprites/Monsters/WaterElemental.png
+- Assets/AssetBundleResources/Sprites/Items/Equip.Png
 - Assets/AssetBundleResources/Sprites/Runes/LightRuneUR.png
 - Assets/AssetBundleResources/Animators/Projectiles/Blood.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf.controller
@@ -155,6 +155,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Runes/QuickRuneEX.png
 - Assets/AssetBundleResources/Prefabs/Skills/BlindScorch.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/EmberWisp.png
+- Assets/AssetBundleResources/Sprites/Monsters/WaterElemental.png
 - Assets/AssetBundleResources/Animators/Canvas/MetalGolem.controller
 - Assets/AssetBundleResources/Animators/Monsters/BarkTroll.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/EmberWisp.overrideController
@@ -363,6 +364,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/PhoenixFire.prefab
 - Assets/AssetBundleResources/Animators/Canvas/QueenSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
+- Assets/AssetBundleResources/Sprites/Items/Monster.Png
 - Assets/AssetBundleResources/Prefabs/Skills/SlowThunder.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/UndeadHarpy.png
 - Assets/AssetBundleResources/Sprites/Equips/SniperSight.png
